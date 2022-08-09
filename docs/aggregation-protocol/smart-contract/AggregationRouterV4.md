@@ -30,7 +30,7 @@ function constructor(
 #### Parameters:
 | Name | Type | Description                                                          |
 | :--- | :--- | :------------------------------------------------------------------- |
-|`weth` | address |
+|`weth` | address |0x9D4e65Fbe9717382aC07705d8c58dD72B5eA89f5
 |`_clipperExchange` | contract IClipperExchangeInterface |
 
 
